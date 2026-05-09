@@ -1,32 +1,15 @@
 {
   "basics": {
     "name": "Nick Noble",
-    "label": "Design++",
+    "label": "Designgineering",
     "email": "nick@miniware.team",
     "url": "https://nicknoble.works",
-    "summary": "Founder at Miniware. Passionate about building tools that empower people to work without friction.",
+    "summary": "Passionate about building tools that empower people to work without friction.",
     "location": {
       "city": "Brooklyn",
       "countryCode": "US",
       "region": "New York"
     },
-    "profiles": [
-      {
-        "network": "twitter",
-        "username": "nickisnoble",
-        "url": "https://twitter.com/nickisnoble"
-      },
-      {
-        "network": "linkedIn",
-        "username": "nickisnoble",
-        "url": "https://www.linkedin.com/in/nickisnoble"
-      },
-      {
-        "network": "read.cv",
-        "username": "nickisnoble",
-        "url": "https://read.cv/nickisnoble"
-      }
-    ],
     "work": [
       {
         "name": "Miniware",
